@@ -54,8 +54,8 @@
         </config-file>
         
         
-        <source-file src="src/ios/framework/pollfish.framework" custom="true" />
-        
+        <framework src="src/ios/pollfish.framework" custom="true" />
+
         <framework src="AdSupport.framework" />
         <framework src="WebKit.framework" />
         <framework src="CoreGraphics.framework" />
